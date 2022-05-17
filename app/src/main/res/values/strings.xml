@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterKotlin</string>
+    <string name="_0">0</string>
+    <string name="button">Добавить</string>
+</resources>
